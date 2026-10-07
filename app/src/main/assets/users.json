@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "Alice Smith",
+      "password": "password123",
+      "url_profile": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "short_bio": "Nature lover and photographer capturing moments around the world."
+    },
+    {
+      "id": 2,
+      "uname": "Bob Jones",
+      "password": "password123",
+      "url_profile": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "short_bio": "Tech enthusiast, developer, and coffee addict."
+    },
+    {
+      "id": 3,
+      "uname": "Charlie Brown",
+      "password": "password123",
+      "url_profile": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "short_bio": "Traveler, wanderer, and storyteller."
+    },
+    {
+      "id": 4,
+      "uname": "Diana Prince",
+      "password": "password123",
+      "url_profile": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+      "short_bio": "Artist and designer exploring colors and abstract forms."
+    },
+    {
+      "id": 5,
+      "uname": "Evan Wright",
+      "password": "password123",
+      "url_profile": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
+      "short_bio": "Software engineer building the future of mobile experiences."
+    },
+    {
+      "id": 6,
+      "uname": "Fiona Gallagher",
+      "password": "password123",
+      "url_profile": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "short_bio": "Passionate about UI/UX and human-centered design."
+    }
+  ]
+}
